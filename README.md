@@ -15,4 +15,4 @@ What is the average distance in miles that a bike is ridden?  See the chart NYC 
 Which bikes (by ID) are most likely due for repair or inspection in the timespan?  I was not able to determine this from the subset of data collected. 
 How variable is the utilization by bike ID?  I was not able to determine this from the subset of data collected. 
 Additionally, city officials would like to see the following visualizations:  
-A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top. See the maps on sheet Map for Start Stations and MAp for End Station with Zipcode and population numbers respectively|
+A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top. See the maps on sheet Map for Start Stations and MAp for End Station with Zipcode and population numbers respectively.
